@@ -1,0 +1,14 @@
+D:\Projects\Visual Studio\Sobes\Route\Route\obj\Debug\net7.0\Route.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio\Sobes\Route\Route\obj\Debug\net7.0\Route.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\Sobes\Route\Route\obj\Debug\net7.0\Route.AssemblyInfo.cs
+D:\Projects\Visual Studio\Sobes\Route\Route\obj\Debug\net7.0\Route.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\Sobes\Route\Route\bin\Debug\net7.0\Route.exe
+D:\Projects\Visual Studio\Sobes\Route\Route\bin\Debug\net7.0\Route.deps.json
+D:\Projects\Visual Studio\Sobes\Route\Route\bin\Debug\net7.0\Route.runtimeconfig.json
+D:\Projects\Visual Studio\Sobes\Route\Route\bin\Debug\net7.0\Route.dll
+D:\Projects\Visual Studio\Sobes\Route\Route\bin\Debug\net7.0\Route.pdb
+D:\Projects\Visual Studio\Sobes\Route\Route\obj\Debug\net7.0\Route.dll
+D:\Projects\Visual Studio\Sobes\Route\Route\obj\Debug\net7.0\refint\Route.dll
+D:\Projects\Visual Studio\Sobes\Route\Route\obj\Debug\net7.0\Route.pdb
+D:\Projects\Visual Studio\Sobes\Route\Route\obj\Debug\net7.0\Route.genruntimeconfig.cache
+D:\Projects\Visual Studio\Sobes\Route\Route\obj\Debug\net7.0\ref\Route.dll
